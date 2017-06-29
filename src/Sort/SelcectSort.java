@@ -1,6 +1,6 @@
 package Sort;
 
-public class SelcecSort {
+public class SelcectSort {
 
 	public static void main(String[] args) {
 
